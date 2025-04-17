@@ -1,4 +1,4 @@
-HDL Verifier Self-Guided Tutorial
+# HDL Verifier Self-Guided Tutorial
 
 HDL Verifier™ enables you to reuse your system-level design environment in your HDL design environment. You can test and verify RTL designs against golden reference models in MATLAB® and Simulink®, debug designs in third-party simulators or hardware, and generate testbenches and verification IP.
 
